@@ -14,6 +14,7 @@ MQTT to Redis Pub/Sub bridge
 
 * [Eclipse Paho](https://www.eclipse.org/paho/)
 * [Spring Data Redis](https://spring.io/projects/spring-data-redis)
+* [Spring Integration](https://docs.spring.io/spring-integration/reference/html/mqtt.html#mqtt)
 * [Lettuce](https://lettuce.io/)
 
 ### Getting Started
